@@ -1,8 +1,6 @@
 /*
  * tokens.h
  *
- * CS280
- * Fall 2018
  */
 
 #ifndef TOKENS_H_
